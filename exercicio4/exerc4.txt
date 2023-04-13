@@ -1,0 +1,10 @@
+O while verifica a condição antes de executar o
+bloco de código pela primeira vez. Se a condição
+for verdadeira, o bloco de código é executado.
+Caso contrário, o laço não será executado. Já o
+"do...while" é um pouco diferente. Ele executa
+o bloco de código pelo menos uma vez,
+independentemente da condição ser verdadeira
+ou falsa. Em seguida, ele verifica a condição e,
+se ela for verdadeira, ele repete o bloco de código.
+O laço continua a executar até que a condição seja falsa.
